@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![tengge1's github stats](https://github-readme-status.vercel.app/api?username=tengge1&show_icons=true&hide_border=true)
 
 <!--
