@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![tengge1's github stats](https://github-readme-status.vercel.app/api?username=tengge1&show_icons=true&hide_border=true)
+
 <!--
 **tengge1/tengge1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
